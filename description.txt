@@ -1,1 +1,2 @@
-D‚pot pour le TP sur le versionning avec Git
+Arnaud CARAMELLI-JOURET
+Dépot pour le TP sur le versionning avec Git
